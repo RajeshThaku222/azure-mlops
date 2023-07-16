@@ -1,4 +1,4 @@
-# cicdapp for MLOps Project V7
+# cicdapp for MLOps Project V8
 
 ## Project setup
 ```
@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+https://dev.azure.com/
